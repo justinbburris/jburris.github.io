@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Justin Burris]]></title>
-  <link href="http://jburris.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Hello World | Justin Burris]]></title>
+  <link href="http://jburris.github.io/blog/categories/hello-world/atom.xml" rel="self"/>
   <link href="http://jburris.github.io/"/>
   <updated>2013-04-11T20:59:09-04:00</updated>
   <id>http://jburris.github.io/</id>
